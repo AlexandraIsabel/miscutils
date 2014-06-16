@@ -1,0 +1,22 @@
+[
+        {
+            "authors": [
+            "nickgalderisi(aka. ngalderisi)"
+            ],
+            "credits": "",
+            "dependants": [  ],
+            "dependencies": [ "Forge@[6.6.2.534,)" ],
+            "description": "Adds recipes that allow you to craft Nether blocks using Overworld items!",
+            "logoFile": "",
+            "mcversion": "1.4.7",
+            "modid": "miscutils",
+            "name": "Miscellaneous Utilities",
+            "parent": "",
+            "requiredMods": [ "Forge@[6.6.2.534,)" ],
+            "screenshots": [  ],
+            "updateUrl": "None, YET",
+            "url": "None, YET",
+            "useDependencyInformation": "true",
+            "version": "0.0.1 Pre Alpha"
+        }
+]
